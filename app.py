@@ -55,4 +55,4 @@ def cal_orcamento():
 
 
 if __name__ == '__main__':
-    app.run(host="191.217.9.108", port=5000)
+    app.run(host="5.161.116.181", port=5000)
